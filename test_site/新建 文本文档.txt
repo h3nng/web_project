@@ -6,6 +6,6 @@
     <title>My test page</title>
   </head>
   <body>
-    <img src="D:\web_project\images\z.jpg" alt="My test image" />
+    <img src="D:\web_project\images\images.jpg" alt="My test image" />
   </body>
 </html>
